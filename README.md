@@ -1,6 +1,6 @@
 # txtdariallah
 
-[Twitter](https://twitter.com/txtdariallah)
+[Twitter](https://twitter.com/txtdariallah) | [Github](https://github.com/mathdroid/txtdariallah) | [Glitch](https://glitch.com/~txtdariallah)
 
 ## Quick remix
 
